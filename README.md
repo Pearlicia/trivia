@@ -62,7 +62,7 @@ python test_flaskr.py
 ## Error Handling
 
 Errors are returned as JSON objects:
-- Sample: curl http://127.0.0.1:5000/nonsense
+- Sample: curl http://127.0.0.1:5000/fullstack
 ```
 {
   "success": False,
